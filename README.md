@@ -1,2 +1,2 @@
 # todo-backend
-ToDo App Backend
+This TODO app is a Java applicaton built using Spring Boot.
